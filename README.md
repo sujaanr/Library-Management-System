@@ -6,41 +6,41 @@ Welcome to the Library Management System (LMS), a state-of-the-art software solu
 
 The Library Management System project offers the following key features:
 
-User Management:
+**User Management:**
 
 User Registration & Login: Secure access for all users, including staff and library members.
 
 Role-Based Access Control: Distinct roles and permissions differentiate staff functionalities from member privileges, ensuring system integrity and security.
 
-Book Management:
+**Book Management:**
 
 Inventory Management: Effortlessly add, modify, or remove books from the inventory.
 
 Book Status Tracking: Keep tabs on book statuses, categorizing them as borrowed, reserved, lost, or available.
 Due Date Monitoring: Automatically track and update due dates for borrowed books.
 
-Borrowing and Returning:
+**Borrowing and Returning:**
 
 Seamless Transactions: Users can borrow and return books via their accounts, streamlining library operations.
 
 Fine Calculation: Automate the computation of fines for overdue returns, ensuring transparency and accountability.
 Reservation Handling: Manage book reservations and requests efficiently, improving user satisfaction.
 
-5. **Search and Display:**
+**Search and Display:**
 
 Advanced Search: Locate books swiftly using filters like title, author, or ISBN.
 
 Comprehensive Display: View books by their availability status, providing users with essential information at a glance.
 
-6. **Reporting Lost Books:**
+**Reporting Lost Books:**
 
 Report and Resolve: Users can report lost books, triggering fines and status updates to manage inventory accurately
 
-7. **User Dashboard:**
+**User Dashboard:**
 
 A Personalized Hub: Users enjoy a dedicated dashboard to manage their interactions, from borrowed books to reservations.
 
-8. **Staff Portal:**
+**Staff Portal:**
 
 Administrative Excellence: A specialized interface allows staff to oversee book inventories, user accounts, and carry out administrative duties efficiently.
 
