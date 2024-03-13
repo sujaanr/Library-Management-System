@@ -7,7 +7,8 @@ Welcome to the Library Management System (LMS), a state-of-the-art software solu
 The Library Management System project offers the following key features:
 
 1. **User Management:**
-**User Registration & Login: Secure access for all users, including staff and library members.
+
+User Registration & Login: Secure access for all users, including staff and library members.
 Role-Based Access Control: Distinct roles and permissions differentiate staff functionalities from member privileges, ensuring system integrity and security.
 
 2. **Book Management:**
